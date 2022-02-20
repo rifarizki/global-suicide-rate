@@ -5,4 +5,4 @@ I also tried to limit the analysis to 10 years only, starting from the year 1995
 I will only focused on the trends of suicide rates in each country.
 
 This is a complimentary data analysis for the R Shiny dashboard, which I have published under the same name with this report.
-Link to my Global Suicide Rate dashboard can be accessed here: https://rifarizki.shinyapps.io/dv-capstone/
+Link to my Global Suicide Rate dashboard: https://rifarizki.shinyapps.io/dv-capstone/
